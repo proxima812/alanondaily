@@ -4,7 +4,7 @@ description: "День за Днем - 13 августа. Почему я поз
 
 id: "226"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "avgust"
 ---
 

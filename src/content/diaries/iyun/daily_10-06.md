@@ -4,7 +4,7 @@ description: "День за Днем - 10 июня. Увидеть реальн�
 
 id: "162"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

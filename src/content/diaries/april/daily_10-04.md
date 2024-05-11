@@ -4,7 +4,7 @@ description: "День за Днем - 10 апреля. Честная само�
 
 id: "101"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "april"
 ---
 

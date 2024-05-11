@@ -4,7 +4,7 @@ description: "День за Днем - 5 мая. Быть более благо�
 
 id: "126"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 14 августа. Восстановит
 
 id: "227"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "avgust"
 ---
 

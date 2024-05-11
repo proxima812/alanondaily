@@ -4,7 +4,7 @@ description: "День за Днем - 29 апреля. Значение сло�
 
 id: "120"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "april"
 ---
 

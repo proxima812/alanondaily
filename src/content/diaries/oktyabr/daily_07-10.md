@@ -4,7 +4,7 @@ description: "День за Днем - 7 октября. Выздоровлен�
 
 id: "281"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "oktyabr"
 ---
 

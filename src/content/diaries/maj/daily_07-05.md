@@ -4,7 +4,7 @@ description: "День за Днем - 7 мая. Делиться опытом, 
 
 id: "128"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 18 января. Анонимность"
 
 id: "18"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

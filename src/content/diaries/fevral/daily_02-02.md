@@ -4,7 +4,7 @@ description: "День за Днем - 2 февраля. Второй Шаг"
 
 id: "33"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

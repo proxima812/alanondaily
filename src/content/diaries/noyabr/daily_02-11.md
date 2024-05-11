@@ -4,7 +4,7 @@ description: "День за Днем - 2 ноября. Отношения"
 
 id: "307"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

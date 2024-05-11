@@ -4,7 +4,7 @@ description: "День за Днем - 16 июня. Второй Шаг пред
 
 id: "168"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

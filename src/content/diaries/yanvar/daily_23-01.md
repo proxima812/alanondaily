@@ -4,7 +4,7 @@ description: "День за Днем - 23 января. Сострадание �
 
 id: "23"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

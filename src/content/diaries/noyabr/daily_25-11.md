@@ -4,7 +4,7 @@ description: "День за Днем - 25 ноября. Религия"
 
 id: "330"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 24 декабря. Методы обле�
 
 id: "359"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

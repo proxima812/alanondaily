@@ -4,7 +4,7 @@ description: "День за Днем - 19 мая. «Синдром мрачно�
 
 id: "140"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 28 июля. Освободиться о�
 
 id: "210"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyul"
 ---
 

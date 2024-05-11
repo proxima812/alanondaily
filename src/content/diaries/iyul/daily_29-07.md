@@ -4,7 +4,7 @@ description: "День за Днем - 29 июля. Обеспечить спо�
 
 id: "211"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyul"
 ---
 

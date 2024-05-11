@@ -4,7 +4,7 @@ description: "День за Днем - 28 июня. Быть добрым к с�
 
 id: "180"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

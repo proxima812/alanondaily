@@ -4,7 +4,7 @@ description: "День за Днем - 6 августа. Только сегод
 
 id: "219"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "avgust"
 ---
 

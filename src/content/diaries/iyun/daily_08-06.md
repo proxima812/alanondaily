@@ -4,7 +4,7 @@ description: "День за Днем - 8 июня. Не искать выгод�
 
 id: "160"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 2 марта. Вера выражаетс
 
 id: "62"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "mart"
 ---
 

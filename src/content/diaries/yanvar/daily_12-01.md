@@ -4,7 +4,7 @@ description: "День за Днем - 12 января. Краски каждо�
 
 id: "12"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

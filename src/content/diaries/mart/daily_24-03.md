@@ -4,7 +4,7 @@ description: "День за Днем - 24 марта. Мужество"
 
 id: "84"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "mart"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 20 июля. Про желание зна
 
 id: "202"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyul"
 ---
 

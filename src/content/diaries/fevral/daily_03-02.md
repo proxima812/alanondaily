@@ -4,7 +4,7 @@ description: "День за Днем - 3 февраля. Положиться н
 
 id: "34"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

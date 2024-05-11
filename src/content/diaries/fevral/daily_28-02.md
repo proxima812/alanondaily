@@ -4,7 +4,7 @@ description: "День за Днем - 28 февраля. Способность
 
 id: "59"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

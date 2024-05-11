@@ -4,7 +4,7 @@ description: "День за Днем - 4 июня. Идея молитвы"
 
 id: "156"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

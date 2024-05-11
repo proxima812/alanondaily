@@ -4,7 +4,7 @@ description: "День за Днем - 24 июля. Слова надежды"
 
 id: "206"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyul"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 21 января. Самоанализ"
 
 id: "21"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

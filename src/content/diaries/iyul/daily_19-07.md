@@ -4,7 +4,7 @@ description: "День за Днем - 19 июля. Энергия добрых 
 
 id: "201"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyul"
 ---
 

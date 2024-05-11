@@ -4,7 +4,7 @@ description: "День за Днем - 12 декабря. Обвинения"
 
 id: "347"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

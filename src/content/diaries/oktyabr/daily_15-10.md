@@ -4,7 +4,7 @@ description: "День за Днем - 15 октября. Восьмая тра�
 
 id: "289"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "oktyabr"
 ---
 

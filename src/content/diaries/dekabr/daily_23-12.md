@@ -4,7 +4,7 @@ description: "День за Днем - 23 декабря. Разочарован
 
 id: "358"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

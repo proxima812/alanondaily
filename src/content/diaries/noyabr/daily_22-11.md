@@ -4,7 +4,7 @@ description: "День за Днем - 22 ноября. Традиции"
 
 id: "327"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

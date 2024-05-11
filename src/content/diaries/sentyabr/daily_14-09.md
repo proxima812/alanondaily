@@ -4,7 +4,7 @@ description: "День за Днем - 14 сентября. Религия"
 
 id: "258"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "sentyabr"
 ---
 

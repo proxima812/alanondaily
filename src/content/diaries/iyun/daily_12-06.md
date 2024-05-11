@@ -4,7 +4,7 @@ description: "День за Днем - 12 июня. Немного юмора"
 
 id: "164"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

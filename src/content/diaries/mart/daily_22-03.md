@@ -4,7 +4,7 @@ description: "День за Днем - 22 марта. Жить одним дне
 
 id: "82"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "mart"
 ---
 

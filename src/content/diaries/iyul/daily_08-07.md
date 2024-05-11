@@ -4,7 +4,7 @@ description: "День за Днем - 8 июля. Слышать больше �
 
 id: "190"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyul"
 ---
 

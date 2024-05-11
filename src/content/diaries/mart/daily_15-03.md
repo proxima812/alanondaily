@@ -4,7 +4,7 @@ description: "День за Днем - 15 марта. Мудрость и опы
 
 id: "75"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "mart"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 29 ноября. Выздоровлени
 
 id: "334"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

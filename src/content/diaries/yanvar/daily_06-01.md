@@ -4,7 +4,7 @@ description: "День за Днем - 6 января. Ложные стерео
 
 id: "6"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

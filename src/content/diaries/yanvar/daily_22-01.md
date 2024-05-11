@@ -4,7 +4,7 @@ description: "День за Днем - 22 января. Жизненный ко�
 
 id: "22"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

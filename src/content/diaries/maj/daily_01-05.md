@@ -4,7 +4,7 @@ description: "День за Днем - 1 мая. К Высшей Силе"
 
 id: "122"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

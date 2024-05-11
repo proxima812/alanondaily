@@ -4,7 +4,7 @@ description: "День за Днем - 24 февраля. Мужество"
 
 id: "55"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

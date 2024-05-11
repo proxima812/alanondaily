@@ -4,7 +4,7 @@ description: "День за Днем - 24 октября. Решение про�
 
 id: "298"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "oktyabr"
 ---
 

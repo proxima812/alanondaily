@@ -4,7 +4,7 @@ description: "День за Днем - 5 апреля. Философия дух
 
 id: "96"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "april"
 ---
 

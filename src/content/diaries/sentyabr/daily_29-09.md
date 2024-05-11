@@ -4,7 +4,7 @@ description: "День за Днем - 29 сентября. «Слушайте �
 
 id: "273"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "sentyabr"
 ---
 

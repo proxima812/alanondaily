@@ -4,7 +4,7 @@ description: "День за Днем - 17 января. Победа над мо
 
 id: "17"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

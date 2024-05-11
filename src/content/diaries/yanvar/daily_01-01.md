@@ -4,7 +4,7 @@ description: "День за Днем - 1 января. На пороге Нов�
 
 id: "1"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

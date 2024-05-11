@@ -4,7 +4,7 @@ description: "День за Днем - 25 февраля. Запастись т�
 
 id: "56"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 15 февраля. Обретение ч�
 
 id: "46"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

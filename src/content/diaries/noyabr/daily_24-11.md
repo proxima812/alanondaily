@@ -4,7 +4,7 @@ description: "День за Днем - 24 ноября. Цели Ал-Анона
 
 id: "329"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

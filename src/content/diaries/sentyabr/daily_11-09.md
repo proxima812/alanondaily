@@ -4,7 +4,7 @@ description: "День за Днем - 11 сентября. Ссоры"
 
 id: "255"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "sentyabr"
 ---
 

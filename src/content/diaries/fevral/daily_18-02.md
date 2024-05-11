@@ -4,7 +4,7 @@ description: "День за Днем - 18 февраля. Быть воспри�
 
 id: "49"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 26 августа. Мужья алког�
 
 id: "239"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "avgust"
 ---
 

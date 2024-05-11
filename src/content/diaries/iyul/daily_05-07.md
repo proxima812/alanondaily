@@ -4,7 +4,7 @@ description: "День за Днем - 5 июля. Понять алкоголи
 
 id: "187"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyul"
 ---
 

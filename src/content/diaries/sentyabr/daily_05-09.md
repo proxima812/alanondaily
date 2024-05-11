@@ -4,7 +4,7 @@ description: "День за Днем - 5 сентября. Знание себя
 
 id: "249"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "sentyabr"
 ---
 

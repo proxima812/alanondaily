@@ -4,7 +4,7 @@ description: "День за Днем - 21 февраля. Не создават�
 
 id: "52"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

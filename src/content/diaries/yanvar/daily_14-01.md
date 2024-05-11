@@ -4,7 +4,7 @@ description: "День за Днем - 14 января. Желание испр�
 
 id: "14"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

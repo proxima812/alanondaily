@@ -4,7 +4,7 @@ description: "День за Днем - 7 декабря. Умиротворен�
 
 id: "342"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 12 октября. Отстранение
 
 id: "286"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "oktyabr"
 ---
 

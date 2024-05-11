@@ -4,7 +4,7 @@ description: "День за Днем - 27 июня. Отношения к дет
 
 id: "179"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

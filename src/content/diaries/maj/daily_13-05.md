@@ -4,7 +4,7 @@ description: "День за Днем - 13 мая. Право быть лично
 
 id: "134"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

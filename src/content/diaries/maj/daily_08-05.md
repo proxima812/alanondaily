@@ -4,7 +4,7 @@ description: "День за Днем - 8 мая. Полный отказ от с
 
 id: "129"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

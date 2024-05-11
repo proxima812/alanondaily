@@ -4,7 +4,7 @@ description: "День за Днем - 3 апреля. Чудо духовног
 
 id: "94"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "april"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 30 ноября. Двенадцатая �
 
 id: "335"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

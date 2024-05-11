@@ -4,7 +4,7 @@ description: "День за Днем - 17 августа. Охранять ин�
 
 id: "230"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "avgust"
 ---
 

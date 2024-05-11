@@ -4,7 +4,7 @@ description: "День за Днем - 25 июня. Молитвы и размы
 
 id: "177"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

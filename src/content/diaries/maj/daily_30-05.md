@@ -4,7 +4,7 @@ description: "День за Днем - 30 мая. «Займись своим д
 
 id: "151"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

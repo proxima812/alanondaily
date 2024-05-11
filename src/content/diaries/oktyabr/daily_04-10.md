@@ -4,7 +4,7 @@ description: "День за Днем - 4 октября. Чувство вины
 
 id: "278"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "oktyabr"
 ---
 

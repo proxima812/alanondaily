@@ -4,7 +4,7 @@ description: "День за Днем - 7 января. Как мне справ�
 
 id: "7"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

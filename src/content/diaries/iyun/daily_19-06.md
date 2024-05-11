@@ -4,7 +4,7 @@ description: "День за Днем - 19 июня. Пятый Шаг предп
 
 id: "171"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

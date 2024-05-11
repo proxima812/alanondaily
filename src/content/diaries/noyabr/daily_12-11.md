@@ -4,7 +4,7 @@ description: "День за Днем - 12 ноября. Непредвзятос
 
 id: "317"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

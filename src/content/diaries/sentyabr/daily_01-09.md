@@ -4,7 +4,7 @@ description: "День за Днем - 1 сентября. Радость"
 
 id: "245"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "sentyabr"
 ---
 

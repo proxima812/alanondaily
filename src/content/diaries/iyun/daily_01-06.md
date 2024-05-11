@@ -4,7 +4,7 @@ description: "День за Днем - 1 июня. Возможность пом
 
 id: "153"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

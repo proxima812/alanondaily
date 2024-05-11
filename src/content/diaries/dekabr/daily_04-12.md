@@ -4,7 +4,7 @@ description: "День за Днем - 4 декабря. Алкоголизм к
 
 id: "339"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

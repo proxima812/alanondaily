@@ -4,7 +4,7 @@ description: "День за Днем - 17 декабря. Сосредоточь
 
 id: "352"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 31 декабря. Уверенность
 
 id: "366"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

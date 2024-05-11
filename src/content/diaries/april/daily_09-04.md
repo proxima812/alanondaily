@@ -4,7 +4,7 @@ description: "День за Днем - 9 апреля. Найти хорошее
 
 id: "100"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "april"
 ---
 

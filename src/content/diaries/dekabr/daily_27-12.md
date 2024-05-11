@@ -4,7 +4,7 @@ description: "День за Днем - 27 декабря. Двенадцатая
 
 id: "362"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

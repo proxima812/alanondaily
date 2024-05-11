@@ -4,7 +4,7 @@ description: "День за Днем - 17 июня. Третий Шаг пред
 
 id: "169"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

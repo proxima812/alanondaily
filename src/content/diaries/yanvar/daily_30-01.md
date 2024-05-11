@@ -4,7 +4,7 @@ description: "День за Днем - 30 января. Понять и почу
 
 id: "30"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

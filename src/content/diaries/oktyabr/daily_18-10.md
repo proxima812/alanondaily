@@ -4,7 +4,7 @@ description: "День за Днем - 18 октября. Отношение"
 
 id: "292"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "oktyabr"
 ---
 

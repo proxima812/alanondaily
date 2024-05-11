@@ -4,7 +4,7 @@ description: "День за Днем - 8 декабря. Слушайте и у�
 
 id: "343"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

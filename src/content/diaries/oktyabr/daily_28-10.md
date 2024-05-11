@@ -4,7 +4,7 @@ description: "День за Днем - 28 октября. Жалость к се
 
 id: "302"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "oktyabr"
 ---
 

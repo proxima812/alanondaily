@@ -4,7 +4,7 @@ description: "День за Днем - 8 апреля. Молюсь о мудр�
 
 id: "99"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "april"
 ---
 

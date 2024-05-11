@@ -4,7 +4,7 @@ description: "День за Днем - 24 января. Философия Ал-
 
 id: "24"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

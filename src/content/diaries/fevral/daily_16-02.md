@@ -4,7 +4,7 @@ description: "День за Днем - 16 февраля. Алкоголизм �
 
 id: "47"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

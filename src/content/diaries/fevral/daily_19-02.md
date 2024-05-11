@@ -4,7 +4,7 @@ description: "День за Днем - 19 февраля. Нет безнадё�
 
 id: "50"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 27 февраля. Новое миров�
 
 id: "58"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 7 февраля. Найти свой п�
 
 id: "38"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

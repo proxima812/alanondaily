@@ -4,7 +4,7 @@ description: "День за Днем - 13 января. Принять нужн�
 
 id: "13"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

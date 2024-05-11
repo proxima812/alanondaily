@@ -4,7 +4,7 @@ description: "День за Днем - 26 марта. Сила, идущая о�
 
 id: "86"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "mart"
 ---
 

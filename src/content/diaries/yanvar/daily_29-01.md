@@ -4,7 +4,7 @@ description: "День за Днем - 29 января. Отделение с л
 
 id: "29"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 18 декабря. Собрания Ал-
 
 id: "353"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

@@ -4,7 +4,7 @@ description: "День за Днем - 2 декабря. Срывы в Ал-Ан
 
 id: "337"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 
