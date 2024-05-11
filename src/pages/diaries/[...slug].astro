@@ -73,8 +73,10 @@ const { Content } = await post.render()
 		}
 	</nav>
 
-	<article class="article prose-h1:text-start prose text-justify lg:prose-lg max-w-2xl mx-auto">
-    <h1>{title}</h1>
+	<article
+		class="article prose-h1:text-start prose text-justify lg:prose-lg max-w-2xl mx-auto"
+	>
+		<h1>{title}</h1>
 		<Content />
 	</article>
 	<script is:inline>
@@ -98,9 +100,15 @@ const { Content } = await post.render()
 				codeBlockStyle: "fenced",
 			})
 			turndownService.addRule("bold", {
+				filter: "h1",
+				replacement: function (content) {
+					return "🟢 **" + content + "**"
+				},
+			})
+			turndownService.addRule("bold", {
 				filter: "h2",
 				replacement: function (content) {
-					return "🔻 **" + content + "**"
+					return "🟢 **" + content + "**"
 				},
 			})
 			turndownService.addRule("italic", {
